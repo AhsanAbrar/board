@@ -21,6 +21,7 @@ return [
 
     'providers' => [
         // '' => Site\SiteServiceProvider::class,
+        'nested' => Nested\NestedServiceProvider::class,
     ],
 
     /*

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d7646b6b9d809ca6df402d3eb102d9e5",
+    "content-hash": "1346ca640d62e6ed15ad18be4f2ef5e4",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -893,201 +893,6 @@
             "time": "2020-09-30T07:37:11+00:00"
         },
         {
-            "name": "laranext/admin",
-            "version": "dev-main",
-            "dist": {
-                "type": "path",
-                "url": "./packages/admin",
-                "reference": "3f237cc3966c78f1f2740e861a3d36699b85d734"
-            },
-            "require": {
-                "illuminate/support": "^6.0 | ^7.0 | ^8.0",
-                "php": "^7.3|^8.0"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Admin\\": "src/"
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Muhammad Ahsan Abrar",
-                    "email": "iahsanabrar@gmail.com"
-                }
-            ],
-            "description": "Laranext is based on reusable plug and play system.",
-            "keywords": [
-                "admin",
-                "laranext",
-                "laravel",
-                "modular",
-                "packages"
-            ],
-            "transport-options": {
-                "relative": true
-            }
-        },
-        {
-            "name": "laranext/blog",
-            "version": "dev-main",
-            "dist": {
-                "type": "path",
-                "url": "./packages/blog",
-                "reference": "53331116cd95e4dffa84c25f35e32a4fdc75676a"
-            },
-            "require": {
-                "illuminate/support": "^6.0 | ^7.0 | ^8.0",
-                "php": "^7.3|^8.0"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Blog\\": "src/"
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Muhammad Ahsan Abrar",
-                    "email": "iahsanabrar@gmail.com"
-                }
-            ],
-            "description": "Laranext is based on reusable plug and play system.",
-            "keywords": [
-                "admin",
-                "laranext",
-                "laravel",
-                "modular",
-                "packages"
-            ],
-            "transport-options": {
-                "relative": true
-            }
-        },
-        {
-            "name": "laranext/crm",
-            "version": "dev-main",
-            "dist": {
-                "type": "path",
-                "url": "./packages/crm",
-                "reference": "869d824ee909337c0fee8477703073daddfbb32b"
-            },
-            "require": {
-                "illuminate/support": "^6.0 | ^7.0 | ^8.0",
-                "php": "^7.3|^8.0"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Crm\\": "src/"
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Muhammad Ahsan Abrar",
-                    "email": "iahsanabrar@gmail.com"
-                }
-            ],
-            "description": "Laranext is based on reusable plug and play system.",
-            "keywords": [
-                "admin",
-                "laranext",
-                "laravel",
-                "modular",
-                "packages"
-            ],
-            "transport-options": {
-                "relative": true
-            }
-        },
-        {
-            "name": "laranext/ecommerce-site",
-            "version": "dev-main",
-            "dist": {
-                "type": "path",
-                "url": "./packages/ecommerce-site",
-                "reference": "0647aa58d55f8ef1c3ae39ebb24aa4196a746eab"
-            },
-            "require": {
-                "illuminate/support": "^6.0 | ^7.0 | ^8.0",
-                "php": "^7.3|^8.0"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Ecommerce\\Site\\": "src/"
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Muhammad Ahsan Abrar",
-                    "email": "iahsanabrar@gmail.com"
-                }
-            ],
-            "description": "Laranext is based on reusable plug and play system.",
-            "keywords": [
-                "admin",
-                "laranext",
-                "laravel",
-                "modular",
-                "packages"
-            ],
-            "transport-options": {
-                "relative": true
-            }
-        },
-        {
-            "name": "laranext/foo",
-            "version": "dev-main",
-            "dist": {
-                "type": "path",
-                "url": "./packages/foo-bar-baz",
-                "reference": "8d0be3f3395dd8af24cdfc2eb8f6264fdde74233"
-            },
-            "require": {
-                "illuminate/support": "^6.0 | ^7.0 | ^8.0",
-                "php": "^7.3|^8.0"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Foo\\": "src/"
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Muhammad Ahsan Abrar",
-                    "email": "iahsanabrar@gmail.com"
-                }
-            ],
-            "description": "Laranext is based on reusable plug and play system.",
-            "keywords": [
-                "admin",
-                "laranext",
-                "laravel",
-                "modular",
-                "packages"
-            ],
-            "transport-options": {
-                "relative": true
-            }
-        },
-        {
             "name": "laranext/laranext",
             "version": "dev-main",
             "dist": {
@@ -1140,12 +945,12 @@
             }
         },
         {
-            "name": "laranext/site",
+            "name": "laranext/nested",
             "version": "dev-main",
             "dist": {
                 "type": "path",
-                "url": "./packages/site",
-                "reference": "df2e5ded4397225eda36c2e9db66a7f403888098"
+                "url": "./packages/nested",
+                "reference": "f66a705a5feeea19dbca390f11364eb0ef9aa94f"
             },
             "require": {
                 "illuminate/support": "^6.0 | ^7.0 | ^8.0",
@@ -1154,7 +959,7 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Site\\": "src/"
+                    "Nested\\": "src/"
                 }
             },
             "license": [
