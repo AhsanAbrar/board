@@ -7,11 +7,18 @@
         "laravel"
     ],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "path",
+            "url": "./packages/laranext"
+        },
+    ],
     "require": {
         "php": "^7.3|^8.0",
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.2",
+        "laranext/laranext": "*",
         "laravel/framework": "^8.32",
         "laravel/tinker": "^2.6"
     },
